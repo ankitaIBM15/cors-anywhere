@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/cors-anywhere.iml" filepath="$PROJECT_DIR$/.idea/cors-anywhere.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node-http-proxy/node-http-proxy.iml" filepath="$PROJECT_DIR$/../node-http-proxy/node-http-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../proxy-from-env/proxy-from-env.iml" filepath="$PROJECT_DIR$/../proxy-from-env/proxy-from-env.iml" />
+    </modules>
+  </component>
+</project>
